@@ -4,4 +4,4 @@ O Meet TEA se destaca por sua abordagem inclusiva e sensível, considerando as d
 
 Além disso, o aplicativo oferece uma variedade de recursos personalizáveis, permitindo que os usuários ajustem as configurações de acordo com suas preferências individuais e níveis de conforto. Por meio de atividades especialmente desenvolvidas, o Meet TEA proporciona um ambiente seguro e acolhedor para o desenvolvimento das habilidades sociais, promovendo a autoconfiança e a interação positiva entre os membros da comunidade autista e seus familiares/cuidadores.
 
-Desenvolvedores: Isabella da Silva Gonçalves, Julia Santos Bongiovanin de Oliveira e Marcos Teixeira Dutra Junior
+Desenvolvedores: Isabella da Silva Gonçalves, Julia Santos Bongiovani de Oliveira e Marcos Teixeira Dutra Junior
